@@ -1,6 +1,6 @@
 # see_sharp_rookie
 
-This repository contains a collection of small projects written in C#.
+*This repository contains a collection of small projects written in C#.*
 
 ### Project 1: GuessNumber
 
