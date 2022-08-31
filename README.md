@@ -4,7 +4,7 @@
 
 ### Project 1: GuessNumber
 
-Have a user guess a random number between 1-10 and let them know if they got it correct, are too low, or are too high.
+Have an user guess a random number between 1-10 and let them know if they got it correct, are too low, or are too high.
 
 ### Project 2: PasswordChecker
 
